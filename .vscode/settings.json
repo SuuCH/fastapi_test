@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/rikufujii/Desktop/MyApp/fastapi_test/.dockervenv/lib/python3.9/site-packages"
+  ]
+}
